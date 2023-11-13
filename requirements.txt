@@ -1,0 +1,10 @@
+Flask
+gunicorn
+scipy
+tensorflow
+numpy
+tqdm
+pandas
+keras
+opencv-python
+matplotlib
