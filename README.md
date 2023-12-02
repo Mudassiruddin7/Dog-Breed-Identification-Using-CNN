@@ -93,7 +93,7 @@ Now you are ready to use jupyter on this environment and start with your project
 4.	Make sure you are in the correct path in your terminal, where you have saved your executable file/folder. E.g.: cd A:\project\AI\Completed\project_name, then press enter.
 5.	Install necessary libraries from requirements.txt file provided.
 6.	Run pip install -r requirements.txt or conda install requirements.txt (Requirements.txt is a text file consisting of all the necessary libraries required for executing this python file. If it gives any error while installing libraries, you might need to install them individually.)
-7.      Download & Unzip The Datset_Dog.rar File From the Below Link & Paste The File Location where ever It's required.
+7.    Download & Unzip The Datset_Dog.rar File From the Below Link & Paste The File Location where ever It's required.
 + https://drive.google.com/file/d/1W3gcpLZ-2KedQ4w-ahRsfb8y0yFmXsMP/view?usp=sharing
 8.      Type main.py in terminal to get the results.
 
@@ -120,7 +120,7 @@ The dataset has been split into train, test, val folders containing sub folders 
 **All the required data hasn't been provided over here. Please feel free to contact me for any issues. You can also download the dataset from the given link below.**
 
 ### _**Let’s Connect**_
-https://www.linkedin.com/in/mudassiruddin21
+<a href="https://linkedin.com/in/mudassiruddin21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mudassiruddin21" height="30" width="40" /></a>
 
 ![Connect](https://media1.giphy.com/media/khr2lS27v92PQPD3oa/giphy.gif)
 
